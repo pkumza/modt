@@ -2,5 +2,5 @@ package c
 
 // Ver is version
 func Ver() string {
-	return "v1.0.0"
+	return "v2.0.0"
 }
